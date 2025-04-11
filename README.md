@@ -1,16 +1,14 @@
-# classroom20x-unblocked
-A collection of safe and fast-loading unblocked games to play at school or work, updated for 2025.
-# Unblocked Games You Will Love To Play (2025 Edition)
+# Unblocked Games – No Limits, No Downloads (2025)
 
-Tired of blocked games or sketchy sites? This repo curates legit, smooth, browser-based unblocked games that work both on school Wi-Fi and Chromebooks.
+Looking for fast, no-lag unblocked games you can actually play on school or work Wi-Fi? You’ve found the right spot.
 
-## Top Game Picks
-
-- [Snow Rider 3D](https://snowrider.pro) – Addictive downhill snowboarding game that runs perfectly on any browser. Other available unblocked games to pick from
-- [Classroom20x Games](https://classroom20x.com) – Collection of different handpicked unblocked games including OvO, Granny, Polytrack, Armed Forces, 1v1.LOL, Big Tower Tiny Square, and so much more.
+## Featured Sites:
+- **[Snow Rider 3D](https://snowrider.pro)** – A smooth and addictive snowboard game you can play right in your browser. Other available unblocked games to pick from
+- **[Classroom20x Unblocked Games](https://classroom20x.com)** – Free browser unblocked games that are  and updated regularly. Works great on laptops. Collection of different handpicked unblocked games including OvO, Granny, Polytrack, Armed Forces, 1v1.LOL, Big Tower Tiny Square, and so much more.
 
 ## Why This Repo?
-Created to help students and casual gamers find safe, unblocked games that don't waste time or bandwidth.
+This project curates safe, fast, and tested unblocked games that don’t get flagged or blocked. Perfect for students, casual gamers, and anyone who just wants a break.
 
-> No installs. No popups. Just pure fun. Enjoy gaming and stay tuned
+> No installs. No weird redirects. Just fun.
 
+We’ll be updating this repo with more game links and resources. Got suggestions? Fork this or open an issue!
